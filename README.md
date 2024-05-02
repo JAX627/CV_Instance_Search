@@ -1,4 +1,3 @@
-# Find 
 # Overview Method
 ## You can find test process in file: cs4186_asm1_test.ipynb
 ## Here are some test algo codes: ORB SIFT BF Flann knn BOW DNN
