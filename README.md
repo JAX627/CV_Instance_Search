@@ -1,5 +1,7 @@
 # Find 
 # Overview Method
+## You can find test process in file: cs4186_asm1_test.ipynb
+## Here are some test algo codes: ORB SIFT BF Flann knn BOW DNN
 ![image](https://github.com/JAX627/DeepLearning_CV_Instance_Search/assets/113168400/cb82d80a-87e3-4416-af62-2aadc7374565)
 ![image](https://github.com/JAX627/DeepLearning_CV_Instance_Search/assets/113168400/c21421e7-c2dd-4133-a8db-b5a738148818)
 ![image](https://github.com/JAX627/DeepLearning_CV_Instance_Search/assets/113168400/460c6b9f-941e-4252-87a0-5e5524a88cf3)
